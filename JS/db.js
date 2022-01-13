@@ -46,6 +46,8 @@ class productos {
                 console.log(total)
                 console.log(arrayNombresFinal);
                 
+    }else {
+        alert("La cantidad que desea llevar no esta disponible ")
     }
 }
 }
